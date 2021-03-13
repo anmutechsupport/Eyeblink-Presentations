@@ -5,4 +5,5 @@ Utils functions have been adopted from https://github.com/NeuroTechX/bci-worksho
 Code partially sourced from https://github.com/SabeehHassany/museEEG.
 
 To learn more, check out this video: https://youtu.be/oniElx2tXpo
+
 Read my Medium article on this project here: https://anushmutyala.medium.com/presentations-with-your-brain-117467b36460
