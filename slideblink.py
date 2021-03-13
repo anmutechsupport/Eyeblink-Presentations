@@ -1,14 +1,4 @@
 """
-Estimate Relaxation from Band Powers
-
-This example shows how to buffer, epoch, and transform EEG data from a single
-electrode into values for each of the classic frequencies (e.g. alpha, beta, theta)
-Furthermore, it shows how ratios of the band powers can be used to estimate
-mental state for neurofeedback.
-
-The neurofeedback protocols described here are inspired by
-*Neurofeedback: A Comprehensive Review on System Design, Methodology and Clinical Applications* by Marzbani et. al
-
 Adapted from https://github.com/NeuroTechX/bci-workshop
 """
 import pyautogui
@@ -17,9 +7,7 @@ from os import system as sys
 from datetime import datetime
 import numpy as np  # Module that simplifies computations on matrices
 from pylsl import StreamInlet, resolve_byprop  # Module to receive EEG data
-import sys
-sys.path.append(r"c:\Users\anush\OneDrive\Documents\GitHub\museEEG")
-import utils  # Our own utility functions
+
 
 class Band:
     Delta = 0
