@@ -3,3 +3,6 @@ This is a project that detects eyeblinks via thresholds and executes a respectiv
 Utils functions have been adopted from https://github.com/NeuroTechX/bci-workshop/blob/master/python/bci_workshop_tools.py.
 
 Code partially sourced from https://github.com/SabeehHassany/museEEG.
+
+To learn more, check out this video: https://youtu.be/oniElx2tXpo
+Read my Medium article on this project here: https://anushmutyala.medium.com/presentations-with-your-brain-117467b36460
